@@ -4,12 +4,6 @@ vendor/lib/libadsprpc.so
 vendor/lib/libfastcvopt.so
 
 # Audio
-vendor/lib/libacdb-fts.so
-vendor/lib/libacdbloader.so
-vendor/lib/libacdbrtac.so
-vendor/lib/libadiertac.so
-vendor/lib/libaudcal.so
-vendor/lib/libFlacSwDec.so
 vendor/lib/soundfx/libqcbassboost.so
 vendor/lib/soundfx/libqcreverb.so
 vendor/lib/soundfx/libqcvirt.so
@@ -81,24 +75,6 @@ vendor/lib/libmmosal.so
 vendor/lib/libOmxAacDec.so
 vendor/lib/libOmxEvrcDec.so
 vendor/lib/libOmxQcelp13Dec.so
-
-# Perf
-vendor/bin/perfd
-vendor/lib/libqti-perfd-client.so
-
-# Postprocessing
-bin/mm-pp-daemon
-vendor/lib/libdisp-aba.so
-vendor/lib/libmm-abl.so
-vendor/lib/libmm-abl-oem.so
-vendor/lib/libmm-als.so
-vendor/lib/libmm-disp-apis.so
-vendor/lib/libmm-qdcm.so
-
-# Thermal
-vendor/bin/thermal-engine
-vendor/lib/libthermalclient.so
-vendor/lib/libthermalioctl.so
 
 # Time services
 -app/TimeService/TimeService.apk

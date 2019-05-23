@@ -9,7 +9,7 @@ CPU     | Quad-core 1.2 GHz ARM® Cortex™ A53
 CHIPSET | Qualcomm MSM8916 Snapdragon 410
 GPU     | Adreno 306
 Memory  | 1 GB
-Shipped Android Version | 4.4.4
+Shipped Android Version | 4.4.2
 Storage | 8 GB
 MicroSD | Up to 32 GB
 Battery | 2000 mAh

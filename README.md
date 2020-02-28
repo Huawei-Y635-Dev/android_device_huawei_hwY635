@@ -1,4 +1,4 @@
-Copyright 2017 - The LineageOS Project
+Copyright 2019 - The LineageOS Project
 
 Device configuration for Huawei Y635.
 =====================================
@@ -19,5 +19,5 @@ Rear Camera  | 5.0 MP LED flash
 Front Camera | 2.0 MP
 Release Date | March 2015
 
-![Huawei Y635](http://cdn2.gsmarena.com/vv/pics/huawei/huawei-y635-2.jpg "Huawei Y635")
+![Huawei Y635](https://github.com/AndroidC-512L/android_device_huawei_hwY635/blob/cm-14.1/Y635.jpeg "Huawei Y635")
 
